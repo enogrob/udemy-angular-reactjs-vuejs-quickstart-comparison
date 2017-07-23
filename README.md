@@ -15,18 +15,19 @@ Angular, React or Vue? JavaScript Frameworks can be confusing. Time for an Intro
 
 ## Topics
 ```
+Section: 1
 0 / 18
 Getting Started
-[ ] 1. Introduction 1:18
-[ ] 2. The Goal of this Course 2:31
-[ ] 3. Understanding the Role of JavaScript 3:48
-[ ] 4. The World of JavaScript 1:36
-[ ] 5. Using Vanilla JavaScript & Understanding Its Limitations (1/3) 5:17
-[ ] 6. Using Vanilla JavaScript & Understanding Its Limitations (2/3) 2:12
-[ ] 7. Using Vanilla JavaScript & Understanding Its Limitations (3/3) 4:40
-[ ] 8. Analyzing the Vanilla JavaScript Solution 2:28
-[ ] 9. Improving the App with jQuery 7:01
-[ ] 10. More JavaScript Libraries: Adding Lodash 2:56
+[x] 1. Introduction 1:18
+[x] 2. The Goal of this Course 2:31
+[x] 3. Understanding the Role of JavaScript 3:48
+[x] 4. The World of JavaScript 1:36
+[x] 5. Using Vanilla JavaScript & Understanding Its Limitations (1/3) 5:17
+[x] 6. Using Vanilla JavaScript & Understanding Its Limitations (2/3) 2:12
+[x] 7. Using Vanilla JavaScript & Understanding Its Limitations (3/3) 4:40
+[x] 8. Analyzing the Vanilla JavaScript Solution 2:28
+[x] 9. Improving the App with jQuery 7:01
+[x] 10. More JavaScript Libraries: Adding Lodash 2:56
 [ ] 11. The Role of JavaScript Libraries 1:20
 [ ] 12. Libraries vs Frameworks 2:50
 [ ] 13. Using Vue.js (A JavaScript Framework) 15:02
