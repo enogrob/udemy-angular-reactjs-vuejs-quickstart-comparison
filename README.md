@@ -28,9 +28,9 @@ Getting Started
 [x] 8. Analyzing the Vanilla JavaScript Solution 2:28
 [x] 9. Improving the App with jQuery 7:01
 [x] 10. More JavaScript Libraries: Adding Lodash 2:56
-[ ] 11. The Role of JavaScript Libraries 1:20
-[ ] 12. Libraries vs Frameworks 2:50
-[ ] 13. Using Vue.js (A JavaScript Framework) 15:02
+[x] 11. The Role of JavaScript Libraries 1:20
+[x] 12. Libraries vs Frameworks 2:50
+[x] 13. Using Vue.js (A JavaScript Framework) 15:02
 [ ] 14. Understand other Parts of the JavaScript World 3:55
 [ ] 15. JavaScript Versions and Languages - ES6 and TypeScript 3:56
 [ ] 16. Course Structure 2:59
